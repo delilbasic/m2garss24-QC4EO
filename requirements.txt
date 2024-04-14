@@ -1,0 +1,6 @@
+qiskit-optimization==0.5.0
+dwave-system==1.23.0
+dimod==0.12.13
+pillow==10.1.0
+pytest==6.2.5
+mqt-problemsolver==0.2.0
